@@ -5,9 +5,9 @@ I’ve recently been contacted by a recruiter that was interested in getting to 
 
 I was requested to submit a code test and there was one question that required a little more time for me to develop than what was requested.
 
-I took the opportunity to develop the code on my own time and post it here.
+I took the opportunity to re-work the code on my own time and post it here.
 
-The challenge was to match all sequences of 0's in pattern the corresponding letter in the substring is a vowel and ach 1 in pattern the corresponding letter is a consonant.
+The challenge was to match all sequences of 0's in a pattern of the corresponding letter in the substring to a vowel... and match 1's in the pattern of the corresponding letter to a consonant.
 
 for each 0 in pattern the corresponding letter in the substring is a vowel.
 for each 1 in pattern the corresponding letter is a consonant.
