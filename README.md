@@ -20,11 +20,13 @@ pattern = amazing
 
 The goal was to count the possibilities of "matches" of the pattern within the string, regardless of the position of the pattern with the string.
 
+```
 010
 amazing
 
   010
 amazing
+```
 
 matches = 2
 
