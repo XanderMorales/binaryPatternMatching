@@ -1,7 +1,7 @@
 # binaryPatternMatching
 Binary Pattern Matching
 
-I’ve recently been contacted by a recruiter that was interested in getting to know my JavaScript skills a little better.
+I was recently contacted by a recruiter that was interested in getting to know my JavaScript skills a little better.
 
 I was requested to submit a code test and there was one question that required a little more time for me to develop than what was requested.
 
