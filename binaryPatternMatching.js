@@ -10,10 +10,6 @@ function binaryPatternMatching(pattern, s) {
       converSToBinary = converSToBinary + " ";
     }
   }
-
-  let counter = converSToBinary.split(pattern).length;
-  console.log(counter);
-  return counter;
+  return converSToBinary.split(pattern).length;
 }
-
-binaryPatternMatching("010", "amazing"); // answer should be 2
+console.log(binaryPatternMatching("010", "amazing")); // answer should be 2
